@@ -31,7 +31,9 @@
     현재는 인턴으로서 실무 경험을 쌓으며 사용자에게 가치를 전달하는 시스템을 고민하고 있습니다.
   </p>
   <p>
+    <br>
     🚀 <b>Working as:</b> Backend Developer Intern (Lawfirm Project)
+    <br>
   </p>
 </div>
 
@@ -79,7 +81,3 @@
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oskar0kh&layout=compact&theme=radical&hide_border=false" height="180" />
 </div>
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/oskar0kh/oskar0kh/output/snake.svg" alt="Snake animation" />
