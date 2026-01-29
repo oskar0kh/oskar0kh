@@ -38,7 +38,7 @@
 </div>
 
 ###
-<br>
+
 <div align="center">
   <h3>🛠 Languages and Tools</h3>
   
@@ -74,7 +74,7 @@
 </div>
 
 ###
-<br>
+
 <div align="center">
   <h3>🔥 My Stats</h3>
   <img src="https://github-readme-stats.vercel.app/api?username=oskar0kh&show_icons=true&theme=radical&hide_border=false" height="180" />
