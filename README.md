@@ -8,7 +8,6 @@
   <a href="mailto:oskar0kh@g.skku.edu">
     <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="25" alt="gmail logo" />
   </a>
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="25" alt="linkedin logo" />
   <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&style=for-the-badge" height="25" alt="github logo" />
 </div>
 
@@ -77,5 +76,5 @@
 <div align="center">
   <h3>🔥 My Stats</h3>
   <img src="https://github-readme-stats.vercel.app/api?username=oskar0kh&show_icons=true&theme=radical&hide_border=false" height="180" alt="stats graph" />
-  <img src="https://streak-stats.demolab.com?user=oskar0kh&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5" height="180" alt="streak graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=oskar0kh&theme=radical&hide_border=false" height="180" alt="streak graph" />
 </div>
