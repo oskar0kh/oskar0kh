@@ -2,7 +2,7 @@
   <img height="180" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueGZ3bmRycm16OHI0Z3pueHBybmZ3bmRycm16OHI0Z3pueHByJmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
 </div>
 
-###
+<br/>
 
 <div align="center">
   <a href="mailto:oskar0kh@g.skku.edu">
@@ -11,17 +11,17 @@
   <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&style=for-the-badge" height="25" alt="github logo" />
 </div>
 
-###
+<br/>
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=oskar0kh.oskar0kh&" />
 </div>
 
-###
+---
 
-<h1 align="center">Hey there, I'm Kunhyung Kim 👋</h1>
-
-###
+<div align="center">
+  <h1 align="center">Hey there, I'm Kunhyung Kim 👋</h1>
+</div>
 
 <div align="center">
   <h3>👨‍💻 About Me</h3>
@@ -31,13 +31,11 @@
     현재는 인턴으로서 실무 경험을 쌓으며 사용자에게 가치를 전달하는 시스템을 고민하고 있습니다.
   </p>
   <p>
-    <br>
     🚀 <b>Working as:</b> Backend Developer Intern (Lawfirm Project)
-    <br>
   </p>
 </div>
 
-###
+<img src="https://capsule-render.vercel.app/render?type=slice&color=auto&height=20&section=subtitle" width="100%"/>
 
 <div align="center">
   <h3>🛠 Languages and Tools</h3>
@@ -73,11 +71,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" height="45" alt="docker logo" />
 </div>
 
-###
+<img src="https://capsule-render.vercel.app/render?type=slice&color=auto&height=20&section=subtitle" width="100%"/>
 
 <div align="center">
   <h3>🔥 My Stats</h3>
   <img src="https://github-readme-stats.vercel.app/api?username=oskar0kh&show_icons=true&theme=radical&hide_border=false" height="180" />
-  <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oskar0kh&layout=compact&theme=radical&hide_border=false" height="180" />
 </div>
