@@ -1,12 +1,13 @@
 <div align="center">
-  <img src="https://img.shields.io/badge/-Kunhyung%20Kim-004170?style=flat-square&logo=react&logoColor=white" width="100%" />
+  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=Kunhyung%20Kim&fontSize=70" />
 
-  ### 🏛️ Sungkyunkwan University
-  **Backend Developer**
+  ### 🏛️ Sungkyunkwan University
 
-  <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Building+Scalable+Architectures;Backend+Developer;Passion+for+Server-side+Optimization;Continuous+Learner+and+Problem+Solver" alt="Typing SVG" />
-  </p>
+  **Backend Developer**
+
+  <p align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Building+Scalable+Architectures;Backend+Developer;Passion+for+Server-side+Optimization;Continuous+Learner+and+Problem+Solver" alt="Typing SVG" />
+  </p>
 </div>
 
 ---
