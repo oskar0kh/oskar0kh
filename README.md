@@ -17,10 +17,12 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=oskar0kh.oskar0kh&" />
 </div>
 
----
+<br/>
+<hr />
+<br/>
 
 <div align="center">
-  <h1 align="center">Hey there, I'm Kunhyung Kim 👋</h1>
+  <h1>Hey there, I'm Kunhyung Kim 👋</h1>
 </div>
 
 <div align="center">
@@ -35,7 +37,9 @@
   </p>
 </div>
 
-<img src="https://capsule-render.vercel.app/render?type=slice&color=auto&height=20&section=subtitle" width="100%"/>
+<br/>
+<img src="https://img.shields.io/badge/-________________________________________________________________________________________________-36BCF7?style=flat-square" width="100%" height="1px" />
+<br/><br/>
 
 <div align="center">
   <h3>🛠 Languages and Tools</h3>
@@ -71,7 +75,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" height="45" alt="docker logo" />
 </div>
 
-<img src="https://capsule-render.vercel.app/render?type=slice&color=auto&height=20&section=subtitle" width="100%"/>
+<br/>
+<img src="https://img.shields.io/badge/-________________________________________________________________________________________________-36BCF7?style=flat-square" width="100%" height="1px" />
+<br/><br/>
 
 <div align="center">
   <h3>🔥 My Stats</h3>
