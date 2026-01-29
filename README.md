@@ -2,6 +2,10 @@
   <img height="180" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueGZ3bmRycm16OHI0Z3pueHBybmZ3bmRycm16OHI0Z3pueHByJmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
 </div>
 
+<div align="center">
+  <img height="200" src="https://cdni.iconscout.com/illustration/premium/thumb/male-programmer-working-on-laptop-illustration-download-in-svg-png-gif-file-formats--person-logo-developer-pack-people-illustrations-5382501.png" />
+</div>
+
 ###
 
 <div align="center">
