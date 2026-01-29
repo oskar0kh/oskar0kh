@@ -1,11 +1,11 @@
 <div align="center">
-  ![header](https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=Kunhyung%20Kim&fontSize=70)
-  
+  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=Kunhyung%20Kim&fontSize=70" />
+
   ### 🏛️ Sungkyunkwan University
   **Backend Developer**
-  
+
   <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Building+Scalable+Architectures;Passion+for+Server-side+Optimization;Continuous+Learner+and+Problem+Solver" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Building+Scalable+Architectures;Backend+Developer+Intern;Passion+for+Server-side+Optimization;Continuous+Learner+and+Problem+Solver" alt="Typing SVG" />
   </p>
 </div>
 
