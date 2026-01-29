@@ -31,9 +31,7 @@
     현재는 인턴으로서 실무 경험을 쌓으며 사용자에게 가치를 전달하는 시스템을 고민하고 있습니다.
   </p>
   <p>
-    <br>
     🚀 <b>Working as:</b> Backend Developer Intern (Lawfirm Project)
-    <br>
   </p>
 </div>
 
