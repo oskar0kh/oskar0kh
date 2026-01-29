@@ -54,7 +54,7 @@
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" height="45" alt="spring logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" height="40" alt="nestjs logo" />
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white" height="40" alt="nestjs logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" height="40" alt="graphql logo" />
   <img width="12" />
@@ -75,6 +75,8 @@
 
 <div align="center">
   <h3>🔥 My Stats</h3>
-  <img src="https://github-readme-stats.vercel.app/api?username=oskar0kh&show_icons=true&theme=radical&hide_border=false" height="180" alt="stats graph" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=oskar0kh&theme=radical&hide_border=false" height="180" alt="streak graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=oskar0kh&show_icons=true&theme=radical&hide_border=false" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=oskar0kh&theme=radical&hide_border=false" height="180" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oskar0kh&layout=compact&theme=radical&hide_border=false" height="180" />
 </div>
