@@ -19,7 +19,7 @@
 
 ###
 
-<h1 align="center">Hey there, I'm Kunhyung Kim 👋</h1>
+<h1 align="center">Hi! I'm Kunhyung Kim 👋</h1>
 
 ###
 
