@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=Kunhyung%20Kim&fontSize=70" />
+  <img src="https://img.shields.io/badge/-Kunhyung%20Kim-004170?style=flat-square&logo=react&logoColor=white" width="100%" />
 
   ### 🏛️ Sungkyunkwan University
   **Backend Developer**
@@ -12,14 +12,6 @@
 ---
 
 ### 🚀 Tech Stack
-
-### 🛠 Tech Stack
-
-**Languages**
-<img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white">
-
-**BackEnd**
-<img src="https://img.shields.io/badge/Spring-000000?style=for-the-badge&logo=spring&logoColor=white"> <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=white"> <img src="https://img.shields.io/badge/NestJS-000000?style=for-the-badge&logo=nestjs&logoColor=white">
 
 #### 🔠 Languages
 <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
