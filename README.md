@@ -27,7 +27,7 @@
   <h3>👨‍💻 About Me</h3>
   <p>
     성균관대학교 소프트웨어학과에 재학중이며,<br>
-    견고하고 확장 가능한 백엔드 아키텍처를 설계하는 것에 열정을 가지고 있습니다.<br>
+    견고하고 확장 가능한 백엔드 아키텍처를 설계하는 것에 열정을 가지고 있습니다.<br><br>
     현재는 인턴으로서 실무 경험을 쌓으며 사용자에게 가치를 전달하는 시스템을 고민하고 있습니다.
   </p>
   <p>
@@ -79,3 +79,7 @@
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oskar0kh&layout=compact&theme=radical&hide_border=false" height="180" />
 </div>
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/oskar0kh/oskar0kh/output/snake.svg" alt="Snake animation" />
