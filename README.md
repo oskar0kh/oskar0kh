@@ -74,8 +74,5 @@
 ###
 
 <div align="center">
-  <h3>🔥 My Stats</h3>
-  <img src="https://github-readme-stats.vercel.app/api?username=oskar0kh&show_icons=true&theme=radical&hide_border=false" height="180" />
-  <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oskar0kh&layout=compact&theme=radical&hide_border=false" height="180" />
 </div>
