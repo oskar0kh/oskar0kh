@@ -30,8 +30,10 @@
     견고하고 확장 가능한 백엔드 아키텍처를 설계하는 것에 열정을 가지고 있습니다.<br><br>
     현재는 인턴으로서 실무 경험을 쌓으며 사용자에게 가치를 전달하는 시스템을 고민하고 있습니다.
   </p>
+
+  <h3>🚀 Working as:</h3>
   <p>
-    🚀 <b>Working as:</b> Backend Developer Intern (Daeryun Lawfirm / 2026.01.02 ~ )
+    Backend Developer Intern (Daeryun Lawfirm / 2026.01.02 ~ )
   </p>
 </div>
 
