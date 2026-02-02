@@ -31,6 +31,8 @@
     현재는 인턴으로서 실무 경험을 쌓으며 사용자에게 가치를 전달하는 시스템을 고민하고 있습니다.
   </p>
 
+  <br><br>
+
   <h3>🚀 Working as:</h3>
   <p>
     Backend Developer Intern (Daeryun Lawfirm / 2026.01.02 ~ )
@@ -38,6 +40,8 @@
 </div>
 
 ###
+
+<br><br>
 
 <div align="center">
   <h3>🛠 Languages and Tools</h3>
