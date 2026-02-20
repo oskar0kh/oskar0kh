@@ -50,7 +50,7 @@ Daeryun Law Firm
 ### 🎓 Education
 
 **Sungkyunkwan University**  
-B.S. in Computer Science and Engineering
+B.S. in Computer Science and Engineering 
 <sub>Mar 2020 – Expected Graduation</sub>
 
 <br>
