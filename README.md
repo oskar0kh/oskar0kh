@@ -107,3 +107,5 @@ B.S. in Computer Science and Engineering
 <img src="https://img.shields.io/badge/AWS%20S3-569A31?style=flat&logo=amazon-s3&logoColor=white" height="35"/>
 
 </div>
+
+---
