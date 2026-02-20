@@ -27,7 +27,7 @@
   
 ### 👨‍💻 About Me
 
-Software Engineering student at **Sungkyunkwan University**  
+Computer Science and Engineering student at **Sungkyunkwan University**  
 Passionate about designing **robust and scalable backend architectures**.
 
 Currently working as a **Full-Stack Developer Intern**,  
@@ -106,10 +106,4 @@ B.S. in Computer Science and Engineering
 <img src="https://img.shields.io/badge/AWS%20EC2-FF9900?style=flat&logo=amazon-ec2&logoColor=white" height="35"/>
 <img src="https://img.shields.io/badge/AWS%20S3-569A31?style=flat&logo=amazon-s3&logoColor=white" height="35"/>
 
-</div>
-
----
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oskar0kh&layout=compact&theme=radical" height="180" />
 </div>
