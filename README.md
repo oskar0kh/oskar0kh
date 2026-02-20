@@ -53,6 +53,8 @@ Daeryun Law Firm
 B.S. in Software Engineering  
 <sub>Mar 2020 – Expected Graduation</sub>
 
+<br>
+
 **Yongin Hankuk Academy of Foreign Studies (HAFS)**  
 <sub>Mar 2017 – Feb 2020</sub>
 
