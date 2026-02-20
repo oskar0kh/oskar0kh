@@ -39,24 +39,30 @@ focusing on building systems that deliver real value to users.
 
 <div align="center">
 
-### 🚀 Experience
+## 🚀 Experience
 
 **Full-Stack Developer Intern**  
 Daeryun Law Firm  
 <sub>Jan 2026 – Present</sub>
 
+</div>
+
 ---
 
-### 🎓 Education
+<div align="center">
+
+## 🎓 Education
 
 **Sungkyunkwan University**  
-B.S. in Computer Science and Engineering 
-<sub>Mar 2020 – Expected Graduation</sub>
+B.S. in Computer Science and Engineering  
+<sub>Mar 2020 – Expected 2026</sub>
 
 <br>
 
 **Hankuk Academy of Foreign Studies (HAFS)**  
 <sub>Mar 2017 – Feb 2020</sub>
+
+</div>
 
 ---
 
