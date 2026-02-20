@@ -30,7 +30,7 @@
 Software Engineering student at **Sungkyunkwan University**  
 Passionate about designing **robust and scalable backend architectures**.
 
-Currently working as a **Backend Developer Intern**,  
+Currently working as a **Full-Stack Developer Intern**,  
 focusing on building systems that deliver real value to users.
 
 </div>
@@ -41,7 +41,7 @@ focusing on building systems that deliver real value to users.
 
 ### 🚀 Experience
 
-**Backend Developer Intern**  
+**Full-Stack Developer Intern**  
 Daeryun Law Firm  
 <sub>Jan 2026 – Present</sub>
 
@@ -50,7 +50,7 @@ Daeryun Law Firm
 ### 🎓 Education
 
 **Sungkyunkwan University**  
-B.S. in Software Engineering  
+B.S. in Computer Science and Engineering
 <sub>Mar 2020 – Expected Graduation</sub>
 
 <br>
