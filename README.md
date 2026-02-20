@@ -39,7 +39,7 @@ focusing on building systems that deliver real value to users.
 
 <div align="center">
 
-## 🚀 Experience
+### 🚀 Experience
 
 **Full-Stack Developer Intern**  
 Daeryun Law Firm  
@@ -51,7 +51,7 @@ Daeryun Law Firm
 
 <div align="center">
 
-## 🎓 Education
+### 🎓 Education
 
 **Sungkyunkwan University**  
 B.S. in Computer Science and Engineering  
