@@ -43,22 +43,20 @@ focusing on building systems that deliver real value to users.
 
 **Backend Developer Intern**  
 Daeryun Law Firm  
-Jan 2026 – Present  
+<sub>Jan 2026 – Present</sub>
+
+---
 
 ### 🎓 Education
 
 **Sungkyunkwan University**  
 B.S. in Software Engineering  
-Mar 2020 – Expected Graduation  
+<sub>Mar 2020 – Expected Graduation</sub>
 
-Yongin Hankuk Academy of Foreign Studies (HAFS)  
-Mar 2017 – Feb 2020  
-
-</div>
+**Yongin Hankuk Academy of Foreign Studies (HAFS)**  
+<sub>Mar 2017 – Feb 2020</sub>
 
 ---
-
-<br>
 
 <div align="center">
   
@@ -71,6 +69,7 @@ Mar 2017 – Feb 2020
 #### Languages
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
@@ -86,10 +85,18 @@ Mar 2017 – Feb 2020
 
 <br><br>
 
+#### Frontend
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" height="45"/>
+
+<br><br>
+
 #### Infra & Database
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="45"/>
+<img src="https://img.shields.io/badge/AWS%20EC2-FF9900?style=flat&logo=amazon-ec2&logoColor=white" height="35"/>
+<img src="https://img.shields.io/badge/AWS%20S3-569A31?style=flat&logo=amazon-s3&logoColor=white" height="35"/>
 
 </div>
 
