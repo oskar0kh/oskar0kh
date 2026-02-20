@@ -55,7 +55,7 @@ B.S. in Software Engineering
 
 <br>
 
-**Yongin Hankuk Academy of Foreign Studies (HAFS)**  
+**Hankuk Academy of Foreign Studies (HAFS)**  
 <sub>Mar 2017 – Feb 2020</sub>
 
 ---
