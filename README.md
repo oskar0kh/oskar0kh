@@ -43,7 +43,7 @@ focusing on building systems that deliver real value to users.
 
 **Full-Stack Developer Intern**  
 Daeryun Law Firm  
-<sub>Jan 2026 – Present</sub>
+<sub>Jan 2026 – Feb 2026</sub>
 
 </div>
 
