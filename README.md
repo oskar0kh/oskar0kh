@@ -30,9 +30,6 @@
 Computer Science and Engineering student at **Sungkyunkwan University**  
 Passionate about designing **robust and scalable backend architectures**.
 
-Currently working as a **Full-Stack Developer Intern**,  
-focusing on building systems that deliver real value to users.
-
 </div>
 
 ---
