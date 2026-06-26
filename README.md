@@ -39,7 +39,7 @@ Passionate about designing **robust and scalable backend architectures**.
 ### 🚀 Experience
 
 **Full-Stack Developer Intern**  
-Daeryun Law Firm  
+SKYZ Korea  
 <sub>Jan 2026 – Feb 2026</sub>
 
 </div>
