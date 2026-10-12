@@ -34,9 +34,9 @@ Passionate about designing **robust and scalable backend architectures**.
 
 ### 🚀 Experience
 
-**Software Engineer Intern (Digital Forensics)**
-Daeryun Law Firm · Digital Forensics Center
-<sub>June 2026 - August 2026</sub>
+**Software Engineer Intern (Digital Forensics)**  
+Daeryun Law Firm · Digital Forensics Center  
+<sub>June 2026 - August 2026</sub>  
 
 **Full-Stack Developer Intern**  
 SKYZ Korea  
