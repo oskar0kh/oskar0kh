@@ -1,7 +1,3 @@
-<div align="center">
-  <img height="180" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueGZ3bmRycm16OHI0Z3pueHBybmZ3bmRycm16OHI0Z3pueHByJmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
-</div>
-
 ###
 
 <div align="center">
@@ -38,6 +34,10 @@ Passionate about designing **robust and scalable backend architectures**.
 
 ### 🚀 Experience
 
+**Software Engineer Intern (Digital Forensics)**
+Daeryun Law Firm · Digital Forensics Center
+<sub>June 2026 - August 2026</sub>
+
 **Full-Stack Developer Intern**  
 SKYZ Korea  
 <sub>Jan 2026 – Feb 2026</sub>
@@ -52,7 +52,7 @@ SKYZ Korea
 
 **Sungkyunkwan University**  
 B.S. in Computer Science and Engineering  
-<sub>Mar 2020 – Expected 2026</sub>
+<sub>Mar 2020 – Expected 2027.02</sub>
 
 <br>
 
